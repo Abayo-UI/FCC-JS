@@ -1,1 +1,1 @@
-# FCC-JS
+# FCC-JavaScript
